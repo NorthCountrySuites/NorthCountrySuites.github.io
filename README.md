@@ -1,15 +1,40 @@
-# NorthCountrySuites.github.io
-# Welcome to North Country Suites!
+
+# Welcome to North Country Suites - Wawa!
+# New - Modern - Immaculate - Luxury
 
 ![Logo of the property](./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg)
 
-Your perfect getaway in the heart of the Wawa Ontario. We offer comfortable and charming accommodations for your next adventure.
+Enjoy a modern and clean experience at this centrally located home. The entire home is yours. Located across from a large park/playground and only steps to the grocery store and local beach. This Wawa Ontario location of North Country Suites is newly renovated with all new furnishings and luxury bedding. Long, double wide driveway can fit your trailer. Fast WIFI and TV with hundreds of channels, free movies, on demand TV shows, and premium sports. Gaming console with 20,000 games. Self check in.
 
 ---
 
 ## About Us
 
-Welcome to North Country Suites, where comfort meets the charm of the great outdoors. Our goal is to provide you with a memorable and relaxing stay, whether you're here for adventure, relaxation, or a bit of both. We are passionate about hospitality and showcasing the beauty of our region.
+Every single surface and material in this house is new! This house has 2 bedrooms, each with a queen size bed as well as a pull out couch to sleep 6 people in total. All rooms are on the same floor.
+
+LIVING ROOM: All new furnishings, Pull out couch sleeps 2. Luxury linens stored in the lounge section. 65" 4k smart TV with cable television with premium sports subscriptions, all streaming services you can think of. Thousands of movies, and TV shows on demand. Retro video game console with 20,000+ games. 100Mbps Wifi.
+
+KITCHEN: All new cookware, bakeware, dinnerware, flatware, chopsticks, wine glasses. New microwave, fridge, stove, toaster. All quartz countertops. Coffee (Keurig) and tea area and comes stocked with free coffee (6) and tea (6). 
+
+BEDROOM 1: New queen size beds with new Sealy Posturepedic Bloomfield Eurotop Queen mattresses. All linens are new and hotel quality. Each nightstand has convenient USB A and USB C connections available. A dresser and mirror are available for use. Closet with plenty of hangers.
+
+BEDROOM 2: New queen size beds with new Sealy Posturepedic Bloomfield Eurotop Queen mattresses. All linens are new and hotel quality. Each nightstand has convenient USB A and USB C connections available. A dresser and mirror are available for use. Closet with plenty of hangers.
+
+BATHROOM: Floating vanity. New tub with glass shower doors. Shampoo, conditioner, and body wash are provided.
+
+LAUNDRY ROOM: This home has a new dishwasher (with free detergent tabs), and new stackable laundry available (with free pods and dryer sheets). 
+
+GARAGE: The property has a large garage that can be used to store your motorcycle / snowmobile / kayaks / bikes etc.
+
+BACKYARD: Large backyard available for use.
+
+PARKING: Ample free parking on the property. Double wide driveway is long enough to store your truck and trailer.
+
+EXTRAS: Iron and ironing board as well as hair dryer available.
+
+NEIGHBORHOOD: Central location, walking distance to everywhere is Wawa. Grocery store is a 5 minute walk. Convenience store is a 2 minute walk. Beach access at Wawa lake is walking distance. Park with a playground is right across the street. Ride your snowmobiles and ATVs right from the property to the trails.
+
+RECOMMENDATIONS: Judith lives in the neighborhood and is familiar with local businesses and activates. The in-house guestbook includes a list of recommended restaurants and bars. If something is not covered in the guestbook, please message the host for additional guidance.
 
 ---
 
