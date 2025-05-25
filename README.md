@@ -200,8 +200,7 @@ Photos are coming!!!
 ## Location
 
 We are conveniently located at:
-
-**North Country Suites - Wawa**
+76 Magpie Rd
 Wawa, Ontario, Canada
 
 Location of North Country Suites - Wawa on Google Maps](https://www.google.com/maps/place/76+Magpie+Rd,+Wawa,+ON+P0S+1K0,+Canada/@47.9918374,-84.7768903,1029m/data=!3m1!1e3!4m10!3m9!1s0x4d470af82db87349:0xa8de7f6b035417e2!5m3!1s2025-07-23!4m1!1i2!8m2!3d47.9920378!4d-84.775211!16s%2Fg%2F11c11bty88?authuser=0&entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D)
