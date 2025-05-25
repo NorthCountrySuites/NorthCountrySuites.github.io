@@ -193,17 +193,7 @@ Wine glasses
 
 ## Photo Gallery
 
-*(To add photos, create a folder named `assets` or `images` in your repository. Upload your images to that folder. Then, you can display them here using Markdown.)*
-
-**Example of how to add an image from an `assets` folder:**
-`![Description of Image 1](./assets/image1.jpg)`
-`![Description of Image 2](./assets/image2.jpg)`
-
-**(Placeholder Images - Replace these with your actual property photos!)**
-
-![Placeholder Suite Interior](https://via.placeholder.com/400x300.png?text=Cozy+Suite+Interior)
-![Placeholder Property Exterior](https://via.placeholder.com/400x300.png?text=Property+Exterior+View)
-![Placeholder Local Scenery](https://via.placeholder.com/400x300.png?text=Beautiful+Local+Scenery)
+Photos are coming!!!
 
 ---
 
@@ -214,13 +204,9 @@ We are conveniently located at:
 **North Country Suites - Wawa**
 Wawa, Ontario, Canada
 
-[Link to Google Maps (Optional but Recommended)]
-`<a href="YOUR_Maps_LINK_HERE" target="_blank">View on Google Maps</a>`
+Location of North Country Suites - Wawa on Google Maps](https://www.google.com/maps/place/76+Magpie+Rd,+Wawa,+ON+P0S+1K0,+Canada/@47.9918374,-84.7768903,1029m/data=!3m1!1e3!4m10!3m9!1s0x4d470af82db87349:0xa8de7f6b035417e2!5m3!1s2025-07-23!4m1!1i2!8m2!3d47.9920378!4d-84.775211!16s%2Fg%2F11c11bty88?authuser=0&entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D)
 
-**Nearby Attractions:**
-* [Attraction 1, e.g., North Peak Hiking Trail - 5 miles]
-* [Attraction 2, e.g., Crystal Lake - 2 miles]
-* [Attraction 3, e.g., Downtown Shopping & Dining - 1 mile]
+
 
 ---
 
