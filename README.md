@@ -2,7 +2,7 @@
 # Welcome to North Country Suites - Wawa!
 # New - Modern - Immaculate - Luxury
 
-![Logo of the property](./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg)
+![Logo of the property](./assets/logo.png)
 
 Enjoy a modern and clean experience at this centrally located home. The entire home is yours. Located across from a large park/playground and only steps to the grocery store and local beach. This Wawa Ontario location of North Country Suites is newly renovated with all new furnishings and luxury bedding. Long, double wide driveway can fit your trailer. Fast WIFI and TV with hundreds of channels, free movies, on demand TV shows, and premium sports. Gaming console with 20,000 games. Self check in.
 
@@ -193,8 +193,8 @@ Wine glasses
 
 ## Photo Gallery
 
-Photos are coming!!!
 
+![Logo of the property](./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg)
 ---
 
 ## Location
