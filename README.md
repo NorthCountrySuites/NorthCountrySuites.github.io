@@ -1,4 +1,4 @@
-
+<div align="center">
 ![Hero_Shot](./assets/Hero_Shot.png)
 # New - Modern - Immaculate - Luxury
 
