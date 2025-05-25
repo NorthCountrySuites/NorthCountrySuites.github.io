@@ -1,12 +1,9 @@
 # NorthCountrySuites.github.io
 # Welcome to North Country Suites!
 
-![North Country Suites Banner](https://via.placeholder.com/1200x300.png?text=North+Country+Suites+Banner+Image)
-*(Replace the placeholder image above with a real banner image for your property. Upload an image to an `assets` folder in this repository and link to it, or use an image hosting service.)*
-
 ![Logo of the property](./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg)
 
-Your perfect getaway in the heart of the North Country. We offer comfortable and charming accommodations for your next adventure.
+Your perfect getaway in the heart of the Wawa Ontario. We offer comfortable and charming accommodations for your next adventure.
 
 ---
 
