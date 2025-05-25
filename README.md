@@ -200,15 +200,15 @@ Wine glasses
 <table>
   <tr>
     <td><Logo of the property="./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg" width="200"/></td>
-    <td><img src="./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg" width="200"/></td>
-    <td><img src="p./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg.png" width="200"/></td>
-    <td><img src="./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg.png" width="200"/></td>
+    <td><Logo of the property="./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg" width="200"/></td>
+    <td><Logo of the property="p./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg.png" width="200"/></td>
+    <td><Logo of the property="./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg.png" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg.png" width="200"/></td>
-    <td><img src="./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg.png" width="200"/></td>
-    <td><img src="./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg.png" width="200"/></td>
-    <td><img src="./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg.png" width="200"/></td>
+    <td><Logo of the property="./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg.png" width="200"/></td>
+    <td><Logo of the property="./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg.png" width="200"/></td>
+    <td><Logo of the property="./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg.png" width="200"/></td>
+    <td><Logo of the property="./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg.png" width="200"/></td>
   </tr>
   <!-- Add more rows as needed -->
 </table>
