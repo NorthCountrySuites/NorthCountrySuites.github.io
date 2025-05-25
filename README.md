@@ -4,6 +4,8 @@
 ![North Country Suites Banner](https://via.placeholder.com/1200x300.png?text=North+Country+Suites+Banner+Image)
 *(Replace the placeholder image above with a real banner image for your property. Upload an image to an `assets` folder in this repository and link to it, or use an image hosting service.)*
 
+https://github.com/NorthCountrySuites/NorthCountrySuites.github.io/commit/69a52d79313295b9b00d2a0847a4d340509df71b#r157977776
+
 Your perfect getaway in the heart of the North Country. We offer comfortable and charming accommodations for your next adventure.
 
 ---
