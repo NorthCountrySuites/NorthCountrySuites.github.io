@@ -8,7 +8,7 @@ Enjoy a modern and clean experience at this centrally located home. The entire h
 
 ---
 
-## About Us
+## The Property
 
 Every single surface and material in this house is new! This house has 2 bedrooms, each with a queen size bed as well as a pull out couch to sleep 6 people in total. All rooms are on the same floor.
 
@@ -26,6 +26,8 @@ LAUNDRY ROOM: This home has a new dishwasher (with free detergent tabs), and new
 
 GARAGE: The property has a large garage that can be used to store your motorcycle / snowmobile / kayaks / bikes etc.
 
+BACK DECK: A large gas barbeque and outdoor seating is available for guest use on the deck behind the house.
+
 BACKYARD: Large backyard available for use.
 
 PARKING: Ample free parking on the property. Double wide driveway is long enough to store your truck and trailer.
@@ -36,23 +38,6 @@ NEIGHBORHOOD: Central location, walking distance to everywhere is Wawa. Grocery 
 
 RECOMMENDATIONS: Judith lives in the neighborhood and is familiar with local businesses and activates. The in-house guestbook includes a list of recommended restaurants and bars. If something is not covered in the guestbook, please message the host for additional guidance.
 
----
-
-## Our Property & Suites
-
-*(Delete or modify this section as needed. Add more details about what you offer.)*
-
-Choose from our selection of beautifully appointed suites, each designed with your comfort in mind.
-
-* **The Pine Cone Suite:** A cozy one-bedroom suite perfect for couples, featuring a queen bed, kitchenette, and a private balcony overlooking the woods.
-* **The Lakeside Loft:** A spacious two-bedroom loft ideal for families or small groups, offering stunning lake views, a full kitchen, and a comfortable living area.
-* **The Mountain View Cabin:** (Coming Soon!) A rustic yet modern cabin experience.
-
-**Each suite includes:**
-* [List a key feature, e.g., High-speed Wi-Fi]
-* [List another key feature, e.g., Smart TV with streaming services]
-* [List another key feature, e.g., Coffee maker with local coffee]
-* [Add more common features]
 
 ---
 
@@ -60,25 +45,149 @@ Choose from our selection of beautifully appointed suites, each designed with yo
 
 We strive to make your stay as comfortable and enjoyable as possible. Our amenities include:
 
-* **General:**
-    * Free Parking
-    * High-Speed Internet Access
-    * Air Conditioning / Heating
-    * Fresh Linens & Towels
-* **Kitchenette/Kitchen (varies by suite):**
-    * Refrigerator
-    * Microwave
-    * Stove/Cooktop (in select suites)
-    * Kettle, Toaster
-    * Basic Cookware & Utensils
-* **Outdoor (if applicable):**
-    * Patio/Balcony
-    * BBQ Area
-    * Access to [e.g., garden, hiking trails, lake]
-* **Safety:**
-    * Smoke Detectors
-    * Carbon Monoxide Detectors
-    * First Aid Kit
+Private Backyard
+
+Baking sheet
+
+Barbecue utensils
+
+Fuel and utensils used for grilling food
+
+Bathtub
+
+BBQ grill
+
+Beach access
+
+Guests can enjoy a nearby beach
+
+Bed linens
+
+Blender
+
+Board games
+
+Body soap
+
+Books and reading material
+
+Carbon monoxide alarm
+
+Children’s books and toys
+
+Children’s dinnerware
+
+Cleaning available during stay
+
+Cleaning products
+
+Clothing storage
+
+Coffee
+
+Coffee maker
+
+Conditioner
+
+Cooking basics
+
+Pots and pans, oil, salt and pepper
+
+Dining table
+
+Dishes and silverware
+
+Dishwasher
+
+Dryer
+
+Drying rack for clothing
+
+Ethernet connection
+
+Exercise equipment
+
+Extra pillows and blankets
+
+Fire extinguisher
+
+First aid kit
+
+Free parking on premises
+
+Free street parking
+
+Freezer
+
+Game console
+
+Gym
+
+Hair dryer
+
+Hangers
+
+Heating
+
+Hot water
+
+Hot water kettle
+
+Iron
+
+Kitchen
+
+Space where guests can cook their own meals
+
+Lake access
+
+Guests can get to a lake using a path or dock
+
+Laundromat nearby
+
+Microwave
+
+Outdoor furniture
+
+Outdoor playground
+
+An outdoor area equipped with play structures for children
+
+Oven
+
+Patio or balcony
+
+Private entrance
+
+Separate street or building entrance
+
+Private living room
+
+Refrigerator
+
+Shampoo
+
+Shower gel
+
+Single level home
+
+No stairs in home
+
+Smoke alarm
+
+Stove
+
+Toaster
+
+TV
+
+HD • Amazon Prime Video, Apple TV, Disney+, Max, Netflix, Premium cable, Standard cable.
+
+Washer
+
+Wifi
+
+Wine glasses
 
 ---
 
@@ -102,9 +211,8 @@ We strive to make your stay as comfortable and enjoyable as possible. Our amenit
 
 We are conveniently located at:
 
-**North Country Suites**
-[Your Street Address (Optional - be mindful of privacy)]
-[Your Town/City, State/Province, Postal Code]
+**North Country Suites - Wawa**
+Wawa, Ontario, Canada
 
 [Link to Google Maps (Optional but Recommended)]
 `<a href="YOUR_Maps_LINK_HERE" target="_blank">View on Google Maps</a>`
@@ -120,14 +228,13 @@ We are conveniently located at:
 
 Ready to book your stay or have questions?
 
-* **Email:** `your-email@example.com`
-* **Phone:** `+1 (555) 123-4567` (Optional)
+* **Email:** `allanklewis@hotmail.com`
 * **Booking Platform:**
     * `<a href="YOUR_AIRBNB_LISTING_LINK_HERE" target="_blank">Book via Airbnb</a>`
     * `<a href="YOUR_VRBO_LISTING_LINK_HERE" target="_blank">Book via Vrbo</a>`
     * (Add any other booking channels or a direct booking inquiry method)
 
-We look forward to welcoming you to North Country Suites!
+We look forward to welcoming you to North Country Suites - Wawa!
 
 ---
 
