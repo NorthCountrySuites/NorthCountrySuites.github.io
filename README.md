@@ -1,5 +1,6 @@
-
-![Hero_Shot](./assets/Hero_Shot.png)
+<p align="center">
+  <img src="./assets/Hero_Shot.png" alt="Hero_Shot">
+</p>
 
 # New - Modern - Immaculate - Luxury
 
