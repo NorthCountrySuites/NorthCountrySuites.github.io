@@ -230,8 +230,8 @@ Ready to book your stay or have questions?
 
 * **Email:** `judyilewis100@gmail.com`
 * **Book Direct via email and save 5% over booking on Airbnb/VRBO/Booking.com**
-* **Booking Platform:**
-    * `<a href="YOUR_AIRBNB_LISTING_LINK_HERE" target="_blank">Book via Airbnb</a>`
+* **Booking Platforms:**
+    * [Airbnb link for North Country Suites - Wawa](airbnb.ca/h/northcountrysuiteswawa)
     * `<a href="YOUR_VRBO_LISTING_LINK_HERE" target="_blank">Book via Vrbo</a>`
     * (Add any other booking channels or a direct booking inquiry method)
 
