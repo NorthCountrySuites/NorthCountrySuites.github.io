@@ -232,8 +232,8 @@ Ready to book your stay or have questions?
 * **Book Direct via email and save 5% over booking on Airbnb/VRBO/Booking.com**
 * **Booking Platforms:**
     * [Airbnb link for North Country Suites - Wawa](https://www.airbnb.ca/rooms/1393689387325093203?source_impression_id=p3_1748196683_P38Riavgy1eCztkR)
-    * `<a href="YOUR_VRBO_LISTING_LINK_HERE" target="_blank">Book via Vrbo</a>`
-    * (Add any other booking channels or a direct booking inquiry method)
+    * [VRBO link for North Country Suites - Wawa](https://www.vrbo.com/en-ca/cottage-rental/p20133780?dateless=true)
+    * [Booking.com link for North Country Suites - Wawa](https://www.booking.com/hotel/ca/newly-renovated-luxury.html)
 
 We look forward to welcoming you to North Country Suites - Wawa!
 
