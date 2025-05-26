@@ -106,9 +106,13 @@ A large gas barbeque and outdoor seating is available for guest use on the deck 
 </table>
 
 
-PARKING: Ample free parking on the property. Double wide driveway is long enough to store your truck and trailer.
+## PARKING
 
-EXTRAS: Iron and ironing board as well as hair dryer available.
+Ample free parking on the property. Double wide driveway is long enough to store your truck and trailer.
+
+## EXTRAS
+
+Iron and ironing board as well as hair dryer available.
 
 ## House floorplan
 
@@ -120,32 +124,20 @@ EXTRAS: Iron and ironing board as well as hair dryer available.
 </table>
 
 
-NEIGHBORHOOD: Central location, walking distance to everywhere is Wawa. Grocery store is a 5 minute walk. Convenience store is a 2 minute walk. Beach access at Wawa lake is walking distance. Park with a playground is right across the street. Ride your snowmobiles and ATVs right from the property to the trails.
+## NEIGHBORHOOD
 
-RECOMMENDATIONS: Judith lives in the neighborhood and is familiar with local businesses and activates. The in-house guestbook includes a list of recommended restaurants and bars. If something is not covered in the guestbook, please message the host for additional guidance.
+Central location, walking distance to everywhere is Wawa. Grocery store is a 5 minute walk. Convenience store is a 2 minute walk. Beach access at Wawa lake is walking distance. Park with a playground is right across the street. Ride your snowmobiles and ATVs right from the property to the trails.
+
+## RECOMMENDATIONS
+
+Judith lives in the neighborhood and is familiar with local businesses and activates. The in-house guestbook includes a list of recommended restaurants and bars. If something is not covered in the guestbook, please message the host for additional guidance.
 
 
----
+## Safety
 
-## Amenities
+Smoke alarm, Carbon monoxide alarm, Fire extinguisher, First aid kit
 
-We strive to make your stay as comfortable and enjoyable as possible. Our amenities include:
 
-In the Kitchen: Coffee, Coffee maker (Keurig), Hot water kettle, Cleaning products, Blender, Baking sheets, Children’s dinnerware, Pots and pans, oil, salt and pepper, Dishes and silverware, Dishwasher
-
-In the Bathroom: Shower, Bathtub, Shampoo, Conditioner, Bodywash, Hairdyer
-
-Laundry: Washer and Dryer, Iron, Ironing Board
-
-In the Backyard: Gas BBQ grill, Barbecue utensils, Outdoor furniture
-
-In the Neighborhood: Beach access, Playground across the street, Lake access
-
-Entertainment: Full cable television, all streaming services, 20,000+ Video Games, Board games, Books and reading material, Children’s books and toys, Exercise equipment
-
-Safety: Smoke alarm, Carbon monoxide alarm, Fire extinguisher, First aid kit
-
-Parking: Free parking on premises, Free street parking
 
 ---
 
