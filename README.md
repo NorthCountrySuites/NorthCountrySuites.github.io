@@ -124,6 +124,12 @@ Ample free parking on the property. Double wide driveway is long enough to store
 
 Iron and ironing board as well as hair dryer available.
 
+<table>
+  <tr>
+    <td><img src="./assets/Floorplan rendering 1.png" width="200"/></td>
+  </tr>
+</table>
+
 ## House Floorplan
 
 <table>
@@ -137,6 +143,12 @@ Iron and ironing board as well as hair dryer available.
 ## Neighborhood
 
 Central location, walking distance to everywhere is Wawa. Grocery store is a 5 minute walk. Convenience store is a 2 minute walk. Beach access at Wawa lake is walking distance. Park with a playground is right across the street. Ride your snowmobiles and ATVs right from the property to the trails.
+
+<table>
+  <tr>
+    <td><img src="./assets/Floorplan rendering 1.png" width="200"/></td>
+  </tr>
+</table>
 
 ## Recommendations
 
