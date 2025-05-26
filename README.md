@@ -10,7 +10,7 @@ Enjoy a modern and clean experience at this centrally located home. The entire h
 ---
 ## Book Direct and Save
 
-* **Text 586-985-9100 or Email judyilewis100@gmail.com and save $10.00 over booking on Airbnb/VRBO/Booking.com**
+* **Text 586-985-9100 or Email judyilewis100@gmail.com and save $10.00 each night, over booking on Airbnb/VRBO/Booking.com**
 * **Provide your name and phone number in the email and we will call you back immediately**
 
 ## Or book with any booking platform
@@ -195,7 +195,7 @@ Wawa, Ontario, Canada
 
 ## Book Direct and Save
 
-* **Text 586-985-9100 or Email judyilewis100@gmail.com and save $10.00 over booking on Airbnb/VRBO/Booking.com**
+* **Text 586-985-9100 or Email judyilewis100@gmail.com and save $10.00 each night, over booking on Airbnb/VRBO/Booking.com**
 * **Provide your name and phone number in the email and we will call you back immediately**
 
 ## Or book with any booking platform
