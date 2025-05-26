@@ -76,55 +76,73 @@ Parking: Free parking on premises, Free street parking
 
 ## Dining Room
 
-## Kitchen
-
-## Bathroom
-
-## Bedroom #1
-
-## Bedroom #2
-
-## Exterior
-
-## Additional Photos
-
-
-
-
 <table>
-  <tr>
-    <td><img src="./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg" width="200"/></td>
-    <td><img src="./assets/0a181452-fe64-442e-8d04-f92a78658518.avif" width="200"/></td>
-    <td><img src="./assets/1D8BF5BA-AD2D-412C-A381-EF61672C360F.jpg" width="200"/></td>
-  </tr>
   <tr>
     <td><img src="./assets/33f01527-9d01-4ec8-b773-cd47376f3259.avif" width="200"/></td>
     <td><img src="./assets/34abf093-50ce-4a55-8a7b-b23ae850d6c8.avif" width="200"/></td>
     <td><img src="./assets/17d7a369-faf2-47dd-80cb-8e791397fe3e.avif" width="200"/></td>
   </tr>
+</table>
+
+## Kitchen
+
+<table>
   <tr>
     <td><img src="./assets/2a4c4459-56e3-4575-9504-fcaae1c5ff51.avif" width="200"/></td>
     <td><img src="./assets/8191fc20-b181-4bd0-8dd0-2d685dae9446.avif" width="200"/></td>
     <td><img src="./assets/9b8a4817-007d-4a3c-85a9-7e84337d1df4.avif" width="200"/></td>
   </tr>
+</table>
+
+## Bathroom
+
+<table>
   <tr>
     <td><img src="./assets/A499914A-D6CB-4B19-B557-D5802A3F7508.jpg" width="200"/></td>
     <td><img src="./assets/A94F98AF-97C0-4057-B9CB-36B55DBDE330.jpg" width="200"/></td>
     <td><img src="./assets/AD272D5D-4AC8-4D01-A111-615357849597.jpg" width="200"/></td>
   </tr>
+</table>
+
+## Bedroom #1
+
+<table>
   <tr>
     <td><img src="./assets/ChatGPT Image Apr 12, 2025, 01_23_18 PM.png" width="200"/></td>
     <td><img src="./assets/ChatGPT Image Apr 12, 2025, 05_53_46 PM.png" width="200"/></td>
     <td><img src="./assets/ChatGPT Image Apr 13, 2025, 06_20_50 PM.png" width="200"/></td>
   </tr>
+</table>
+
+## Bedroom #2
+
+<table>
   <tr>
     <td><img src="./assets/Edited Photo of TV with services.png" width="200"/></td>
     <td><img src="./assets/Floorplan rendering 1.png" width="200"/></td>
     <td><img src="./assets/Floorplan rendering 2.png" width="200"/></td>
   </tr>
-  <!-- Add more rows as needed -->
 </table>
 
+## Exterior
+
+<table>
+  <tr>
+    <td><img src="./assets/33f01527-9d01-4ec8-b773-cd47376f3259.avif" width="200"/></td>
+    <td><img src="./assets/34abf093-50ce-4a55-8a7b-b23ae850d6c8.avif" width="200"/></td>
+    <td><img src="./assets/17d7a369-faf2-47dd-80cb-8e791397fe3e.avif" width="200"/></td>
+  </tr>
+</table>
+
+## Additional Photos
+
+<table>
+  <tr>
+    <td><img src="./assets/33f01527-9d01-4ec8-b773-cd47376f3259.avif" width="200"/></td>
+    <td><img src="./assets/34abf093-50ce-4a55-8a7b-b23ae850d6c8.avif" width="200"/></td>
+    <td><img src="./assets/17d7a369-faf2-47dd-80cb-8e791397fe3e.avif" width="200"/></td>
+  </tr>
+</table>
 
 ---
 
