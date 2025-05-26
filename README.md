@@ -180,7 +180,21 @@ Wawa, Ontario, Canada
 
 [Location of North Country Suites - Wawa on Google Maps](https://www.google.com/maps/place/76+Magpie+Rd,+Wawa,+ON+P0S+1K0,+Canada/@47.9918374,-84.7768903,1029m/data=!3m1!1e3!4m10!3m9!1s0x4d470af82db87349:0xa8de7f6b035417e2!5m3!1s2025-07-23!4m1!1i2!8m2!3d47.9920378!4d-84.775211!16s%2Fg%2F11c11bty88?authuser=0&entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoASAFQAw%3D%3D)
 
+---
 
+## Book Direct and Save
+
+* **Email judyilewis100@gmail.com and save 5% over booking on Airbnb/VRBO/Booking.com**
+* **Provide your name and phone number in the email and we will call you back immediately**
+
+## Or Book with any Booking Platform
+    * [Airbnb link for North Country Suites - Wawa](https://www.airbnb.ca/rooms/1393689387325093203?source_impression_id=p3_1748196683_P38Riavgy1eCztkR)
+    * [VRBO link for North Country Suites - Wawa](https://www.vrbo.com/en-ca/cottage-rental/p20133780?dateless=true)
+    * [Booking.com link for North Country Suites - Wawa](https://www.booking.com/hotel/ca/newly-renovated-luxury.html)
+
+We look forward to welcoming you to North Country Suites - Wawa!
+
+---
 
 ---
 
