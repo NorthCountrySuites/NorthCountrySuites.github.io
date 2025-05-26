@@ -80,7 +80,7 @@ Parking: Free parking on premises, Free street parking
   </tr>
   <tr>
     <td><img src="./assets/2a4c4459-56e3-4575-9504-fcaae1c5ff51.avif" width="200"/></td>
-    <td><img src="./assets/34abf093-50ce-4a55-8a7b-b23ae850d6c8.avif" width="200"/></td>
+    <td><img src="./assets/8191fc20-b181-4bd0-8dd0-2d685dae9446.avif" width="200"/></td>
     <td><img src="./assets/17d7a369-faf2-47dd-80cb-8e791397fe3e.avif" width="200"/></td>
   </tr>
   <!-- Add more rows as needed -->
