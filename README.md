@@ -96,7 +96,7 @@ Parking: Free parking on premises, Free street parking
   <tr>
     <td><img src="./assets/Edited Photo of TV with services.png" width="200"/></td>
     <td><img src="./assets/Floorplan rendering 1.png" width="200"/></td>
-    <td><img src="./assets/ChatGPT Image Apr 13, 2025, 06_20_50 PM.png" width="200"/></td>
+    <td><img src="./assets/Floorplan rendering 2.png" width="200"/></td>
   </tr>
   <!-- Add more rows as needed -->
 </table>
