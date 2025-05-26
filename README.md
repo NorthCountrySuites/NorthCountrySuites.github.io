@@ -64,7 +64,31 @@ Parking: Free parking on premises, Free street parking
 
 ---
 
-## Photo Gallery
+## Living Room
+
+<table>
+  <tr>
+    <td><img src="./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg" width="200"/></td>
+    <td><img src="./assets/0a181452-fe64-442e-8d04-f92a78658518.avif" width="200"/></td>
+    <td><img src="./assets/1D8BF5BA-AD2D-412C-A381-EF61672C360F.jpg" width="200"/></td>
+  </tr>
+</table>
+
+## Dining Room
+
+## Kitchen
+
+## Bathroom
+
+## Bedroom #1
+
+## Bedroom #2
+
+## Exterior
+
+## Additional Photos
+
+
 
 
 <table>
