@@ -15,6 +15,16 @@ Every single surface and material in this house is new! This house has 2 bedroom
 
 LIVING ROOM: All new furnishings, Pull out couch sleeps 2. Luxury linens stored in the lounge section. 65" 4k smart TV with cable television with premium sports subscriptions, all streaming services you can think of. Thousands of movies, and TV shows on demand. Retro video game console with 20,000+ games. 100Mbps Wifi.
 
+## Living Room
+
+<table>
+  <tr>
+    <td><img src="./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg" width="200"/></td>
+    <td><img src="./assets/Edited Photo of TV with services.png" width="200"/></td>
+    <td><img src="./assets/9acfed50-72e5-462b-a368-66de4544749b.avif" width="200"/></td>
+  </tr>
+</table>
+
 KITCHEN: All new cookware, bakeware, dinnerware, flatware, chopsticks, wine glasses. New microwave, fridge, stove, toaster. All quartz countertops. Coffee (Keurig) and tea area and comes stocked with free coffee (6) and tea (6). 
 
 BEDROOM 1: New queen size beds with new Sealy Posturepedic Bloomfield Eurotop Queen mattresses. All linens are new and hotel quality. Each nightstand has convenient USB A and USB C connections available. A dresser and mirror are available for use. Closet with plenty of hangers.
