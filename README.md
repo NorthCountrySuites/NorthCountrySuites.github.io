@@ -46,149 +46,21 @@ RECOMMENDATIONS: Judith lives in the neighborhood and is familiar with local bus
 
 We strive to make your stay as comfortable and enjoyable as possible. Our amenities include:
 
-Private Backyard
+In the Kitchen: Coffee, Coffee maker (Keurig), Hot water kettle, Cleaning products, Blender, Baking sheets, Children’s dinnerware, Pots and pans, oil, salt and pepper, Dishes and silverware, Dishwasher
 
-Baking sheet
+In the Bathroom: Shower, Bathtub, Shampoo, Conditioner, Bodywash, Hairdyer
 
-Barbecue utensils
+Laundry: Washer and Dryer, Iron, Ironing Board
 
-Fuel and utensils used for grilling food
+In the Backyard: Gas BBQ grill, Barbecue utensils, Outdoor furniture
 
-Bathtub
+In the Neighborhood: Beach access, Playground across the street, Lake access
 
-BBQ grill
+Entertainment: Full cable television, all streaming services, 20,000+ Video Games, Board games, Books and reading material, Children’s books and toys, Exercise equipment
 
-Beach access
+Safety: Smoke alarm, Carbon monoxide alarm, Fire extinguisher, First aid kit
 
-Guests can enjoy a nearby beach
-
-Bed linens
-
-Blender
-
-Board games
-
-Body soap
-
-Books and reading material
-
-Carbon monoxide alarm
-
-Children’s books and toys
-
-Children’s dinnerware
-
-Cleaning available during stay
-
-Cleaning products
-
-Clothing storage
-
-Coffee
-
-Coffee maker
-
-Conditioner
-
-Cooking basics
-
-Pots and pans, oil, salt and pepper
-
-Dining table
-
-Dishes and silverware
-
-Dishwasher
-
-Dryer
-
-Drying rack for clothing
-
-Ethernet connection
-
-Exercise equipment
-
-Extra pillows and blankets
-
-Fire extinguisher
-
-First aid kit
-
-Free parking on premises
-
-Free street parking
-
-Freezer
-
-Game console
-
-Gym
-
-Hair dryer
-
-Hangers
-
-Heating
-
-Hot water
-
-Hot water kettle
-
-Iron
-
-Kitchen
-
-Space where guests can cook their own meals
-
-Lake access
-
-Guests can get to a lake using a path or dock
-
-Laundromat nearby
-
-Microwave
-
-Outdoor furniture
-
-Outdoor playground
-
-An outdoor area equipped with play structures for children
-
-Oven
-
-Patio or balcony
-
-Private entrance
-
-Separate street or building entrance
-
-Private living room
-
-Refrigerator
-
-Shampoo
-
-Shower gel
-
-Single level home
-
-No stairs in home
-
-Smoke alarm
-
-Stove
-
-Toaster
-
-TV
-
-HD • Amazon Prime Video, Apple TV, Disney+, Max, Netflix, Premium cable, Standard cable.
-
-Washer
-
-Wifi
-
-Wine glasses
+Parking: Free parking on premises, Free street parking
 
 ---
 
