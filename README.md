@@ -112,6 +112,14 @@ A large gas barbeque and outdoor seating is available for guest use on the deck 
 
 Ample free parking on the property. Double wide driveway is long enough to store your truck and trailer.
 
+<table>
+  <tr>
+    <td><img src="./assets/Screenshot 2025-04-13 174130.png" width="200"/></td>
+  </tr>
+</table>
+
+
+
 ## EXTRAS
 
 Iron and ironing board as well as hair dryer available.
