@@ -93,7 +93,7 @@ This home has a new dishwasher (with free detergent tabs), and new stackable lau
   </tr>
 </table>
 
-## GARAGE
+## Garage
 
 The property has a large garage that can be used to store your motorcycle / snowmobile / kayaks / bikes etc.
 
@@ -108,7 +108,7 @@ A large gas barbeque and outdoor seating is available for guest use on the deck 
 </table>
 
 
-## PARKING
+## Parking
 
 Ample free parking on the property. Double wide driveway is long enough to store your truck and trailer.
 
@@ -120,11 +120,11 @@ Ample free parking on the property. Double wide driveway is long enough to store
 
 
 
-## EXTRAS
+## Extras
 
 Iron and ironing board as well as hair dryer available.
 
-## House floorplan
+## House Floorplan
 
 <table>
   <tr>
@@ -134,11 +134,11 @@ Iron and ironing board as well as hair dryer available.
 </table>
 
 
-## NEIGHBORHOOD
+## Neighborhood
 
 Central location, walking distance to everywhere is Wawa. Grocery store is a 5 minute walk. Convenience store is a 2 minute walk. Beach access at Wawa lake is walking distance. Park with a playground is right across the street. Ride your snowmobiles and ATVs right from the property to the trails.
 
-## RECOMMENDATIONS
+## Recommendations
 
 Judith lives in the neighborhood and is familiar with local businesses and activates. The in-house guestbook includes a list of recommended restaurants and bars. If something is not covered in the guestbook, please message the host for additional guidance.
 
