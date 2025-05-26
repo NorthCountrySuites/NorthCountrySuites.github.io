@@ -110,7 +110,7 @@ Parking: Free parking on premises, Free street parking
   <tr>
     <td><img src="./assets/f188a92f-0373-44f2-8e55-9e81f80b1794.avif" width="200"/></td>
     <td><img src="./assets/5c24601b-83fc-461c-83f2-715c40c795d7.avif" width="200"/></td>
-    <td><img src="./assets/ChatGPT Image Apr 13, 2025, 06_20_50 PM.png" width="200"/></td>
+    <td><img src="./assets/214eb9b4-0b01-4f25-ab7f-de005c6919e0.avif" width="200"/></td>
   </tr>
 </table>
 
