@@ -94,7 +94,7 @@ Parking: Free parking on premises, Free street parking
     <td><img src="./assets/ChatGPT Image Apr 13, 2025, 06_20_50 PM.png" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="./assets/ChatGPT Image Apr 12, 2025, 01_23_18 PM.png" width="200"/></td>
+    <td><img src="./assets/Edited Photo of TV with services.png" width="200"/></td>
     <td><img src="./assets/ChatGPT Image Apr 12, 2025, 05_53_46 PM.png" width="200"/></td>
     <td><img src="./assets/ChatGPT Image Apr 13, 2025, 06_20_50 PM.png" width="200"/></td>
   </tr>
