@@ -188,9 +188,9 @@ Wawa, Ontario, Canada
 * **Provide your name and phone number in the email and we will call you back immediately**
 
 ## Or Book with any Booking Platform
-    * [Airbnb link for North Country Suites - Wawa](https://www.airbnb.ca/rooms/1393689387325093203?source_impression_id=p3_1748196683_P38Riavgy1eCztkR)
-    * [VRBO link for North Country Suites - Wawa](https://www.vrbo.com/en-ca/cottage-rental/p20133780?dateless=true)
-    * [Booking.com link for North Country Suites - Wawa](https://www.booking.com/hotel/ca/newly-renovated-luxury.html)
+    * **[Airbnb link for North Country Suites - Wawa](https://www.airbnb.ca/rooms/1393689387325093203?source_impression_id=p3_1748196683_P38Riavgy1eCztkR)**
+    * **[VRBO link for North Country Suites - Wawa](https://www.vrbo.com/en-ca/cottage-rental/p20133780?dateless=true)**
+    * **[Booking.com link for North Country Suites - Wawa](https://www.booking.com/hotel/ca/newly-renovated-luxury.html)**
 
 We look forward to welcoming you to North Country Suites - Wawa!
 
