@@ -146,7 +146,7 @@ Central location, walking distance to everywhere is Wawa. Grocery store is a 5 m
 
 <table>
   <tr>
-    <td><img src="./assets/Floorplan rendering 1.png" width="200"/></td>
+    <td><img src="./assets/Neighborhood_1.png" width="200"/></td>
   </tr>
 </table>
 
