@@ -138,9 +138,9 @@ Parking: Free parking on premises, Free street parking
 
 <table>
   <tr>
-    <td><img src="./assets/33f01527-9d01-4ec8-b773-cd47376f3259.avif" width="200"/></td>
-    <td><img src="./assets/34abf093-50ce-4a55-8a7b-b23ae850d6c8.avif" width="200"/></td>
-    <td><img src="./assets/17d7a369-faf2-47dd-80cb-8e791397fe3e.avif" width="200"/></td>
+    <td><img src="./assets/Edited Photo of TV with services.png" width="200"/></td>
+    <td><img src="./assets/Floorplan rendering 1.png" width="200"/></td>
+    <td><img src="./assets/Floorplan rendering 2.png" width="200"/></td>
   </tr>
 </table>
 
