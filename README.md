@@ -25,6 +25,18 @@ All new furnishings, Pull out couch sleeps 2. Luxury linens stored in the lounge
   </tr>
 </table>
 
+## Dining Room
+
+Dining Room
+
+<table>
+  <tr>
+    <td><img src="./assets/1D8BF5BA-AD2D-412C-A381-EF61672C360F.jpg" width="200"/></td>
+    <td><img src="./assets/0e09fccf-0557-4099-b67e-b19a504a7419.avif" width="200"/></td>
+    <td><img src="./assets/17d7a369-faf2-47dd-80cb-8e791397fe3e.avif" width="200"/></td>
+  </tr>
+</table>
+
 ## Kitchen
 
 All new cookware, bakeware, dinnerware, flatware, chopsticks, wine glasses. New microwave, fridge, stove, toaster. All quartz countertops. Coffee (Keurig) and tea area and comes stocked with free coffee (6) and tea (6). 
