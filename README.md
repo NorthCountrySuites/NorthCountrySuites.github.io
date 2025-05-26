@@ -158,7 +158,7 @@ Central location, walking distance to everywhere is Wawa. Grocery store is a 5 m
 
 ## Recommendations
 
-Judith lives in the neighborhood and is familiar with local businesses and activates. The in-house guestbook includes a list of recommended restaurants and bars. If something is not covered in the guestbook, please message the host for additional guidance.
+Judith lives in the neighborhood and is familiar with local businesses and activities. The in-house guestbook includes a list of recommended restaurants and bars. If something is not covered in the guestbook, please message the host for additional guidance.
 
 
 ## Safety
