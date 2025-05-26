@@ -89,7 +89,7 @@ Parking: Free parking on premises, Free street parking
 <table>
   <tr>
     <td><img src="./assets/dac3e9f5-00d7-4adc-85f1-38cd054e908f.avif" width="200"/></td>
-    <td><img src="./assets/8191fc20-b181-4bd0-8dd0-2d685dae9446.avif" width="200"/></td>
+    <td><img src="./assets/dac3e9f5-00d7-4adc-85f1-38cd054e908f.avif" width="200"/></td>
     <td><img src="./assets/9b8a4817-007d-4a3c-85a9-7e84337d1df4.avif" width="200"/></td>
   </tr>
 </table>
