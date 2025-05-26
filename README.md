@@ -188,7 +188,7 @@ Wawa, Ontario, Canada
 
 Ready to book your stay or have questions?
 
-* **Email:** `judyilewis100@gmail.com`
+* **Email: judyilewis100@gmail.com**
 * **Book Direct via email and save 5% over booking on Airbnb/VRBO/Booking.com**
 * **Booking Platforms:**
     * [Airbnb link for North Country Suites - Wawa](https://www.airbnb.ca/rooms/1393689387325093203?source_impression_id=p3_1748196683_P38Riavgy1eCztkR)
