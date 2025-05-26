@@ -132,7 +132,7 @@ Iron and ironing board as well as hair dryer available.
 
 <table>
   <tr>
-    <td><img src="./assets/Floorplan rendering 1.png" width="200"/></td>
+    <td><img src="./assets/cef89667-f122-4aa2-9cb2-4553230df029.png" width="200"/></td>
   </tr>
 </table>
 
