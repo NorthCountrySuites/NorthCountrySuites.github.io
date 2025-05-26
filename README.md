@@ -95,9 +95,16 @@ This home has a new dishwasher (with free detergent tabs), and new stackable lau
 
 GARAGE: The property has a large garage that can be used to store your motorcycle / snowmobile / kayaks / bikes etc.
 
-BACK DECK: A large gas barbeque and outdoor seating is available for guest use on the deck behind the house.
+## Exterior
+A large gas barbeque and outdoor seating is available for guest use on the deck behind the house. Large backyard available for use.
+<table>
+  <tr>
+    <td><img src="./assets/ea9bc9b0-b625-4959-ae9e-2d69eaecc4b8.avif" width="200"/></td>
+    <td><img src="./assets/c7d9bc60-7370-42c7-b22b-39d5d94b5d87.avif" width="200"/></td>
+    <td><img src="./assets/25b33a59-3d9c-4af3-90b8-bf7a23c1ad07.avif" width="200"/></td>
+  </tr>
+</table>
 
-BACKYARD: Large backyard available for use.
 
 PARKING: Ample free parking on the property. Double wide driveway is long enough to store your truck and trailer.
 
