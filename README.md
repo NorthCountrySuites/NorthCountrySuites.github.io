@@ -90,7 +90,7 @@ Parking: Free parking on premises, Free street parking
   </tr>
   <tr>
     <td><img src="./assets/ChatGPT Image Apr 12, 2025, 01_23_18 PM.png" width="200"/></td>
-    <td><img src="./assets/A94F98AF-97C0-4057-B9CB-36B55DBDE330.jpg" width="200"/></td>
+    <td><img src="./assets/ChatGPT Image Apr 12, 2025, 05_53_46 PM.png" width="200"/></td>
     <td><img src="./assets/AD272D5D-4AC8-4D01-A111-615357849597.jpg" width="200"/></td>
   </tr>
   <!-- Add more rows as needed -->
