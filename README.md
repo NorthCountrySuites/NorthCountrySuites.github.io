@@ -89,7 +89,7 @@ This home has a new dishwasher (with free detergent tabs), and new stackable lau
 
 <table>
   <tr>
-    <td><img src="./assets/33f01527-9d01-4ec8-b773-cd47376f3259.avif" width="200"/></td>
+    <td><img src="./assets/b161eb7c-5f85-42e1-ba5b-47d5e8fbd215.avif" width="200"/></td>
   </tr>
 </table>
 
