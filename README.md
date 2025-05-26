@@ -93,7 +93,9 @@ This home has a new dishwasher (with free detergent tabs), and new stackable lau
   </tr>
 </table>
 
-GARAGE: The property has a large garage that can be used to store your motorcycle / snowmobile / kayaks / bikes etc.
+## GARAGE
+
+The property has a large garage that can be used to store your motorcycle / snowmobile / kayaks / bikes etc.
 
 ## Exterior
 A large gas barbeque and outdoor seating is available for guest use on the deck behind the house. Large backyard available for use.
