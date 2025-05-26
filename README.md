@@ -13,8 +13,6 @@ Enjoy a modern and clean experience at this centrally located home. The entire h
 
 Every single surface and material in this house is new! This house has 2 bedrooms, each with a queen size bed as well as a pull out couch to sleep 6 people in total. All rooms are on the same floor.
 
-LIVING ROOM: All new furnishings, Pull out couch sleeps 2. Luxury linens stored in the lounge section. 65" 4k smart TV with cable television with premium sports subscriptions, all streaming services you can think of. Thousands of movies, and TV shows on demand. Retro video game console with 20,000+ games. 100Mbps Wifi.
-
 ## Living Room
 
 All new furnishings, Pull out couch sleeps 2. Luxury linens stored in the lounge section. 65" 4k smart TV with cable television with premium sports subscriptions, all streaming services you can think of. Thousands of movies, and TV shows on demand. Retro video game console with 20,000+ games. 100Mbps Wifi.
@@ -27,13 +25,53 @@ All new furnishings, Pull out couch sleeps 2. Luxury linens stored in the lounge
   </tr>
 </table>
 
-KITCHEN: All new cookware, bakeware, dinnerware, flatware, chopsticks, wine glasses. New microwave, fridge, stove, toaster. All quartz countertops. Coffee (Keurig) and tea area and comes stocked with free coffee (6) and tea (6). 
+## Kitchen
 
-BEDROOM 1: New queen size beds with new Sealy Posturepedic Bloomfield Eurotop Queen mattresses. All linens are new and hotel quality. Each nightstand has convenient USB A and USB C connections available. A dresser and mirror are available for use. Closet with plenty of hangers.
+All new cookware, bakeware, dinnerware, flatware, chopsticks, wine glasses. New microwave, fridge, stove, toaster. All quartz countertops. Coffee (Keurig) and tea area and comes stocked with free coffee (6) and tea (6). 
 
-BEDROOM 2: New queen size beds with new Sealy Posturepedic Bloomfield Eurotop Queen mattresses. All linens are new and hotel quality. Each nightstand has convenient USB A and USB C connections available. A dresser and mirror are available for use. Closet with plenty of hangers.
+<table>
+  <tr>
+    <td><img src="./assets/dac3e9f5-00d7-4adc-85f1-38cd054e908f.avif" width="200"/></td>
+    <td><img src="./assets/b2f0a519-9385-4e13-9d73-5d6919229816.avif" width="200"/></td>
+    <td><img src="./assets/9f9536bf-c16b-4b67-b970-f089940c8bf3.avif" width="200"/></td>
+  </tr>
+</table>
 
-BATHROOM: Floating vanity. New tub with glass shower doors. Shampoo, conditioner, and body wash are provided.
+
+
+## Bedroom #1
+
+New queen size beds with new Sealy Posturepedic Bloomfield Eurotop Queen mattresses. All linens are new and hotel quality. Each nightstand has convenient USB A and USB C connections available. A dresser and mirror are available for use. Closet with plenty of hangers.
+<table>
+  <tr>
+    <td><img src="./assets/f188a92f-0373-44f2-8e55-9e81f80b1794.avif" width="200"/></td>
+    <td><img src="./assets/5c24601b-83fc-461c-83f2-715c40c795d7.avif" width="200"/></td>
+    <td><img src="./assets/214eb9b4-0b01-4f25-ab7f-de005c6919e0.avif" width="200"/></td>
+  </tr>
+</table>
+
+## Bedroom #2
+
+New queen size beds with new Sealy Posturepedic Bloomfield Eurotop Queen mattresses. All linens are new and hotel quality. Each nightstand has convenient USB A and USB C connections available. A dresser and mirror are available for use. Closet with plenty of hangers.
+<table>
+  <tr>
+    <td><img src="./assets/Second Bedroom View 1.jpg" width="200"/></td>
+    <td><img src="./assets/Second Bedroom View 2.jpg" width="200"/></td>
+    <td><img src="./assets/Second Bedroom View 3.jpg" width="200"/></td>
+  </tr>
+</table>
+
+## Bathroom
+
+Floating vanity. New tub with glass shower doors. Shampoo, conditioner, and body wash are provided.
+<table>
+  <tr>
+    <td><img src="./assets/33f01527-9d01-4ec8-b773-cd47376f3259.avif" width="200"/></td>
+    <td><img src="./assets/A94F98AF-97C0-4057-B9CB-36B55DBDE330.jpg" width="200"/></td>
+    <td><img src="./assets/34abf093-50ce-4a55-8a7b-b23ae850d6c8.avif" width="200"/></td>
+  </tr>
+</table>
+
 
 LAUNDRY ROOM: This home has a new dishwasher (with free detergent tabs), and new stackable laundry available (with free pods and dryer sheets). 
 
