@@ -91,7 +91,12 @@ Parking: Free parking on premises, Free street parking
   <tr>
     <td><img src="./assets/ChatGPT Image Apr 12, 2025, 01_23_18 PM.png" width="200"/></td>
     <td><img src="./assets/ChatGPT Image Apr 12, 2025, 05_53_46 PM.png" width="200"/></td>
-    <td><img src="./assets/AD272D5D-4AC8-4D01-A111-615357849597.jpg" width="200"/></td>
+    <td><img src="./assets/ChatGPT Image Apr 13, 2025, 06_20_50 PM.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/ChatGPT Image Apr 12, 2025, 01_23_18 PM.png" width="200"/></td>
+    <td><img src="./assets/ChatGPT Image Apr 12, 2025, 05_53_46 PM.png" width="200"/></td>
+    <td><img src="./assets/ChatGPT Image Apr 13, 2025, 06_20_50 PM.png" width="200"/></td>
   </tr>
   <!-- Add more rows as needed -->
 </table>
