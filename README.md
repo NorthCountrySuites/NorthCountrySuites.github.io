@@ -17,6 +17,8 @@ LIVING ROOM: All new furnishings, Pull out couch sleeps 2. Luxury linens stored 
 
 ## Living Room
 
+All new furnishings, Pull out couch sleeps 2. Luxury linens stored in the lounge section. 65" 4k smart TV with cable television with premium sports subscriptions, all streaming services you can think of. Thousands of movies, and TV shows on demand. Retro video game console with 20,000+ games. 100Mbps Wifi.
+
 <table>
   <tr>
     <td><img src="./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg" width="200"/></td>
