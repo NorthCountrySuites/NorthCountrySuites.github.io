@@ -27,7 +27,7 @@ All new furnishings, Pull out couch sleeps 2. Luxury linens stored in the lounge
 
 ## Dining Room
 
-Dining Room
+The dining room includes a table that seats six with plenty of place settings for everyone.
 
 <table>
   <tr>
@@ -84,8 +84,16 @@ Floating vanity. New tub with glass shower doors. Shampoo, conditioner, and body
   </tr>
 </table>
 
+## Laundry
+This home has a new dishwasher (with free detergent tabs), and new stackable laundry available (with free pods and dryer sheets). 
 
-LAUNDRY ROOM: This home has a new dishwasher (with free detergent tabs), and new stackable laundry available (with free pods and dryer sheets). 
+<table>
+  <tr>
+    <td><img src="./assets/33f01527-9d01-4ec8-b773-cd47376f3259.avif" width="200"/></td>
+    <td><img src="./assets/A94F98AF-97C0-4057-B9CB-36B55DBDE330.jpg" width="200"/></td>
+    <td><img src="./assets/34abf093-50ce-4a55-8a7b-b23ae850d6c8.avif" width="200"/></td>
+  </tr>
+</table>
 
 GARAGE: The property has a large garage that can be used to store your motorcycle / snowmobile / kayaks / bikes etc.
 
