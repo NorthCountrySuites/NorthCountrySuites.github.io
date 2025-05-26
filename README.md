@@ -110,6 +110,16 @@ PARKING: Ample free parking on the property. Double wide driveway is long enough
 
 EXTRAS: Iron and ironing board as well as hair dryer available.
 
+## House floorplan
+
+<table>
+  <tr>
+    <td><img src="./assets/Floorplan rendering 1.png" width="200"/></td>
+    <td><img src="./assets/Floorplan rendering 2.png" width="200"/></td>
+  </tr>
+</table>
+
+
 NEIGHBORHOOD: Central location, walking distance to everywhere is Wawa. Grocery store is a 5 minute walk. Convenience store is a 2 minute walk. Beach access at Wawa lake is walking distance. Park with a playground is right across the street. Ride your snowmobiles and ATVs right from the property to the trails.
 
 RECOMMENDATIONS: Judith lives in the neighborhood and is familiar with local businesses and activates. The in-house guestbook includes a list of recommended restaurants and bars. If something is not covered in the guestbook, please message the host for additional guidance.
@@ -139,84 +149,6 @@ Parking: Free parking on premises, Free street parking
 
 ---
 
-## Living Room
-
-<table>
-  <tr>
-    <td><img src="./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg" width="200"/></td>
-    <td><img src="./assets/Edited Photo of TV with services.png" width="200"/></td>
-    <td><img src="./assets/9acfed50-72e5-462b-a368-66de4544749b.avif" width="200"/></td>
-  </tr>
-</table>
-
-## Dining Room
-
-<table>
-  <tr>
-    <td><img src="./assets/1D8BF5BA-AD2D-412C-A381-EF61672C360F.jpg" width="200"/></td>
-    <td><img src="./assets/0e09fccf-0557-4099-b67e-b19a504a7419.avif" width="200"/></td>
-    <td><img src="./assets/17d7a369-faf2-47dd-80cb-8e791397fe3e.avif" width="200"/></td>
-  </tr>
-</table>
-
-## Kitchen
-
-<table>
-  <tr>
-    <td><img src="./assets/dac3e9f5-00d7-4adc-85f1-38cd054e908f.avif" width="200"/></td>
-    <td><img src="./assets/b2f0a519-9385-4e13-9d73-5d6919229816.avif" width="200"/></td>
-    <td><img src="./assets/9f9536bf-c16b-4b67-b970-f089940c8bf3.avif" width="200"/></td>
-  </tr>
-</table>
-
-## Bathroom
-
-<table>
-  <tr>
-    <td><img src="./assets/33f01527-9d01-4ec8-b773-cd47376f3259.avif" width="200"/></td>
-    <td><img src="./assets/A94F98AF-97C0-4057-B9CB-36B55DBDE330.jpg" width="200"/></td>
-    <td><img src="./assets/34abf093-50ce-4a55-8a7b-b23ae850d6c8.avif" width="200"/></td>
-  </tr>
-</table>
-
-## Bedroom #1
-
-<table>
-  <tr>
-    <td><img src="./assets/f188a92f-0373-44f2-8e55-9e81f80b1794.avif" width="200"/></td>
-    <td><img src="./assets/5c24601b-83fc-461c-83f2-715c40c795d7.avif" width="200"/></td>
-    <td><img src="./assets/214eb9b4-0b01-4f25-ab7f-de005c6919e0.avif" width="200"/></td>
-  </tr>
-</table>
-
-## Bedroom #2
-
-<table>
-  <tr>
-    <td><img src="./assets/Second Bedroom View 1.jpg" width="200"/></td>
-    <td><img src="./assets/Second Bedroom View 2.jpg" width="200"/></td>
-    <td><img src="./assets/Second Bedroom View 3.jpg" width="200"/></td>
-  </tr>
-</table>
-
-## Exterior
-
-<table>
-  <tr>
-    <td><img src="./assets/ea9bc9b0-b625-4959-ae9e-2d69eaecc4b8.avif" width="200"/></td>
-    <td><img src="./assets/c7d9bc60-7370-42c7-b22b-39d5d94b5d87.avif" width="200"/></td>
-    <td><img src="./assets/25b33a59-3d9c-4af3-90b8-bf7a23c1ad07.avif" width="200"/></td>
-  </tr>
-</table>
-
-## House floorplan
-
-<table>
-  <tr>
-    <td><img src="./assets/Floorplan rendering 1.png" width="200"/></td>
-    <td><img src="./assets/Floorplan rendering 2.png" width="200"/></td>
-  </tr>
-</table>
 
 ---
 
