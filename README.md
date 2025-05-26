@@ -70,7 +70,7 @@ Parking: Free parking on premises, Free street parking
   <tr>
     <td><img src="./assets/0E3B0346-8E1E-45D9-B908-9E6A1B031E3A.jpg" width="200"/></td>
     <td><img src="./assets/Edited Photo of TV with services.png" width="200"/></td>
-    <td><img src="./assets/1D8BF5BA-AD2D-412C-A381-EF61672C360F.jpg" width="200"/></td>
+    <td><img src="./assets/9acfed50-72e5-462b-a368-66de4544749b.avif" width="200"/></td>
   </tr>
 </table>
 
