@@ -134,11 +134,10 @@ Parking: Free parking on premises, Free street parking
   </tr>
 </table>
 
-## Additional Photos
+## House floorplan
 
 <table>
   <tr>
-    <td><img src="./assets/Edited Photo of TV with services.png" width="200"/></td>
     <td><img src="./assets/Floorplan rendering 1.png" width="200"/></td>
     <td><img src="./assets/Floorplan rendering 2.png" width="200"/></td>
   </tr>
