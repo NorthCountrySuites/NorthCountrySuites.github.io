@@ -23,11 +23,6 @@ Enjoy a modern and clean experience at this centrally located home. The entire h
 * **Review websites:**
     * [Yelp link for North Country Suites - Wawa](https://www.yelp.com/biz/north-country-suites-wawa?osq=Hotels+%26+Travel)
 
-## Check out reviews on Yelp
-    * [Yelp link for North Country Suites - Wawa](https://www.yelp.com/biz/north-country-suites-wawa?osq=Hotels+%26+Travel)
-
-
-
 
 ## The Property
 
