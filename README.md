@@ -19,6 +19,9 @@ Enjoy a modern and clean experience at this centrally located home. The entire h
     * [VRBO link for North Country Suites - Wawa](https://www.vrbo.com/en-ca/cottage-rental/p20133780?dateless=true)
     * [Booking.com link for North Country Suites - Wawa](https://www.booking.com/hotel/ca/newly-renovated-luxury.html)
 
+## Check out our reviews
+* **Review websites:**
+    * [Yelp link for North Country Suites - Wawa](https://www.yelp.com/biz/north-country-suites-wawa?osq=Hotels+%26+Travel)
 
 ## Check out reviews on Yelp
     * [Yelp link for North Country Suites - Wawa](https://www.yelp.com/biz/north-country-suites-wawa?osq=Hotels+%26+Travel)
